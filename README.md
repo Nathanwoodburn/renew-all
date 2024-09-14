@@ -51,3 +51,6 @@ This will renew all domains in the wallet.
 ```bash
 RENEW_TYPE=all
 ```
+
+## Screenshots
+![Screenshot](./assets/script.png)
