@@ -6,7 +6,13 @@ Make sure you have these installed:
 - Python3
 
 
-Install hsd-ledger package:
+Clone this repository:
+```bash
+git clone https://git.woodburn.au/nathanwoodburn/renew-all.git
+cd renew-all
+```
+Install hsd-ledger package in the repository:
+
 ```bash
 git clone https://github.com/Nathanwoodburn/hsd-ledger.git
 cd hsd-ledger
